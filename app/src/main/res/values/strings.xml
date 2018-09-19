@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="login">Login</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="logout">Logout</string>
+</resources>
